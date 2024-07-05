@@ -113,6 +113,9 @@
     font-size: 30px;
     font-weight: 600;
 }
+.border-btn:focus{
+    outline: none;
+}
 .year{
     color: #ffffff;
     font-size: 30px;

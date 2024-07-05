@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f2023d-6bb0-4407-a3da-3e4af7ba620a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/projects-images/crud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects-images/ecommerce.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/contact-redux.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/contact-redux.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/password.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/password.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/responsive.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/responsive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/sidebar.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/sidebar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/slider.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/slider.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/tab.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/tab.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-images/to-do-list.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects-images/to-do-list.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +26,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/aqdmin/Desktop/my-projects/icon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aqdmin\Desktop\my-projects\icon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aqdmin\Desktop\my-projects" />
       <recent name="C:\Users\aqdmin\Desktop\my-projects\portfolio-images" />
       <recent name="C:\Users\aqdmin\Desktop\my-projects\project-videos" />
     </key>
@@ -69,6 +64,11 @@
       <workItem from="1719853517694" duration="1330000" />
       <workItem from="1719923687474" duration="791000" />
       <workItem from="1719926867314" duration="18000" />
+      <workItem from="1720116864553" duration="1215000" />
+      <workItem from="1720158448049" duration="516000" />
+      <workItem from="1720164162430" duration="29000" />
+      <workItem from="1720173416360" duration="55000" />
+      <workItem from="1720173517329" duration="291000" />
     </task>
     <servers />
   </component>
